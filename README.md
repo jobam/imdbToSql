@@ -4,3 +4,5 @@
 4) Run run.sh to generate the DB
 5) Wait.......
 6) Your sqlLite DB is in folder db_output
+
+Bonus: You can export the DB to a .csv file, just run toCsv.sh
