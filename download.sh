@@ -1,6 +1,6 @@
 #!/bin/bash
 
-_path='ftp.fu-berlin.de/pub/misc/movies/database/'
+_path='ftp.funet.fi/pub/mirrors/ftp.imdb.com/pub/temporaryaccess/'
 _destFolder='input_list_files/'
 declare -a _files=("aka-names.list.gz" "actors.list.gz" "actresses.list.gz" "movies.list.gz" "aka-titles.list.gz" "genres.list.gz" "keywords.list.gz")
 
